@@ -14,6 +14,7 @@ My name is Luis Salcedo, a Mexican-American software engineer with roots in Sacr
 ---
 
 ### ☢️ Languages and Tools
+  <p>
   <img align="center" alt="VS Code" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="HTML" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -39,10 +40,9 @@ My name is Luis Salcedo, a Mexican-American software engineer with roots in Sacr
   <img align="center" alt="GraphQL" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"/>
   <img align="center" alt="Rollup JS" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rollup/rollup-original.svg"/>
   <img align="center" alt="Windows" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
-
+</p>
 
 <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LS2355&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 ### Currently Working On
 
