@@ -8,7 +8,7 @@ My name is Luis Salcedo, a Mexican-American software engineer with roots in Sacr
  <a href="https://www.linkedin.com/in/luis-o-salcedo/">
    <img alt="My linked in account" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
  <a href="">
-   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/California-USA-gold?style=for-the-badge&logo=location&logoColor=white"/></a> 
+   <img alt="location" title="USA, CA" src="https://custom-icon-badges.demolab.com/badge/California-USA-gold?style=for-the-badge&logo=location&logoColor=white"/></a> 
 </p> 
 
 ---
