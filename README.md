@@ -14,7 +14,7 @@ My name is Luis Salcedo, a Mexican-American software engineer with roots in Sacr
 ---
 
 ### ☢️ Languages and Tools
-  <p>
+ <p>
   <img align="center" alt="VS Code" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="HTML" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -43,6 +43,7 @@ My name is Luis Salcedo, a Mexican-American software engineer with roots in Sacr
 </p>
 
 <br />
+
 ---
 ### Currently Working On
 
