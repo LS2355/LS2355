@@ -15,31 +15,31 @@ My name is Luis Salcedo, a Mexican-American software engineer with roots in Sacr
 
 ### ☢️ Languages and Tools
  <p>
-  <img align="center" alt="VS Code" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="HTML" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Sass" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-  <img align="center" alt="Tailwind css" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img align="center" alt="JS" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="TS" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="NodeJS" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img align="center" alt="NPM" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
-  <img align="center" alt="React JS" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="Express" width="30px" style="padding-right:10px; padding-top:5px;;" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"/>
-  <img align="center" alt="Electron" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/>
-  <img align="center" alt="Jest" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
-  <img align="center" alt="vite" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
-  <img align="center" alt="Jquery" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
-  <img align="center" alt="Handlebars" width="30px" style="padding-right:10px; padding-top:5px;" src="https://avatars.githubusercontent.com/u/19378685?s=280&v=4"/>
-  <img align="center" alt="Python" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="MYSQL" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="GIT" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img align="center" alt="JSON" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg"/>
-  <img align="center" alt="YAML" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn-icons-png.flaticon.com/512/9791/9791150.png"/>
-  <img align="center" alt="REST Api" width="30px" style="padding-right:10px; margin-top:5px;" src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png"/>
-  <img align="center" alt="GraphQL" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"/>
-  <img align="center" alt="Rollup JS" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rollup/rollup-original.svg"/>
-  <img align="center" alt="Windows" width="30px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
+  <img align="center" alt="VS Code" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="HTML" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Sass" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
+  <img align="center" alt="Tailwind css" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img align="center" alt="JS" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="TS" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="NodeJS" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
+  <img align="center" alt="NPM" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
+  <img align="center" alt="React JS" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="center" alt="Express" width="35px" style="padding-right:10px; padding-top:5px;;" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"/>
+  <img align="center" alt="Electron" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/>
+  <img align="center" alt="Jest" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+  <img align="center" alt="vite" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
+  <img align="center" alt="Jquery" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
+  <img align="center" alt="Handlebars" width="35px" style="padding-right:10px; padding-top:5px;" src="https://avatars.githubusercontent.com/u/19378685?s=280&v=4"/>
+  <img align="center" alt="Python" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt="MYSQL" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="GIT" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" alt="JSON" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg"/>
+  <img align="center" alt="YAML" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn-icons-png.flaticon.com/512/9791/9791150.png"/>
+  <img align="center" alt="REST Api" width="35px" style="padding-right:10px; margin-top:5px;" src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png"/>
+  <img align="center" alt="GraphQL" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"/>
+  <img align="center" alt="Rollup JS" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rollup/rollup-original.svg"/>
+  <img align="center" alt="Windows" width="35px" style="padding-right:10px; padding-top:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
 </p>
 
 <br />
