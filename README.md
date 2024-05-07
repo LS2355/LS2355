@@ -63,6 +63,7 @@ My name is Luis Salcedo, a Mexican-American software engineer with roots in Sacr
   <ul>
    <li>🏋️‍♂️ - GYM</li>
    <li>🎮 - Games</li>
+   <li>👾 - coding</li>
    <li>🏍️ - Offroading</li>
    <li>⛺ - Camping</li>
    <li>🚶‍♂️ - Hiking</li>
