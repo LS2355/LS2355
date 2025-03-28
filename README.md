@@ -48,7 +48,7 @@ My name is Luis Salcedo, a Mexican-American software engineer with roots in Sacr
 ### Currently Working On
 
 <!-- to view more options go to https://github.com/DenverCoder1/github-readme-stats-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LS2355&repo=Cal-CAL&theme=midnight-purple)](https://github.com/LS2355/cal-cal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LS2355&repo=Cal-CAL&theme=midnight-purple)](https://github.com/LS2355/cal-cal-readme)
 
 
 
